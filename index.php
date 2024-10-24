@@ -1,20 +1,9 @@
-<html>
-    <head>
-        <title>Homework PHP</title>
-        <link rel="stylesheet" href="styling.css">
-    </head>
+<?php require_once(".\styling\header.php") ?>
+<br>
+<br>
+<h1>Unser Kurs PHP (u.A.)</h1>        
 
-<nav>
-    <ul>
-        <li><a href="index.php">Montag 21.10</a></li>
-        <li><a href="about.php">Dienstag 22.10</a></li>
-        <li><a href="contact.php">Mittwoch 23.10</a></li>
-        <li><a href="gallery.php">Donnerstag 24.10</a></li>
-    </ul>
-</nav>
-    <body>
-        <div>
-            <img src="index.jpg" alt="Coming Soon"> 
+<div>
+             
         </div>
-    </body>
-</html>
+<?php require_once(".\styling\\footer.php") ?>
